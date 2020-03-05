@@ -1,1 +1,1 @@
-const calc = document.querySelector('.calculator');
+alert("Welcome!");
